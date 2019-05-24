@@ -1,0 +1,12 @@
+# OS X
+.DS_Store
+hooks
+jsconfig.json
+typings
+simulation
+build
+platforms
+plugins
+.vs
+.vscode
+node_modules
