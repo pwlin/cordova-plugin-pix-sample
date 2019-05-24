@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-pix-sample",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sample App for cordova-plugin-pix",
   "cordova": {
     "id": "cdv.pix.sample",
