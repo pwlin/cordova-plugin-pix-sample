@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/pwlin/cordova-plugin-pix-sample#readme",
   "dependencies": {
-    "cordova-android": "^6.3.0",
+    "cordova-android": "^12.0.0",
     "cordova-plugin-android-permissions": "^1.0.0",
     "cordova-plugin-pix": "0.0.3",
     "cordova-plugin-whitelist": "^1.3.3"
